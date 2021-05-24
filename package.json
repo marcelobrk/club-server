@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.0.2"
+    "socket.io": "^4.0.2",
+     "peer": "^0.6.1"
   },
   "engines": {
     "node": "16"
